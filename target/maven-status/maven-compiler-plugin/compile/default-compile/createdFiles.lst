@@ -1,0 +1,8 @@
+org\senolab\webapp\sparkjavademo\Main.class
+org\senolab\webapp\sparkjavademo\StandardResponse.class
+org\senolab\webapp\sparkjavademo\UserService.class
+org\senolab\webapp\sparkjavademo\StatusResponse.class
+org\senolab\webapp\sparkjavademo\UserServiceMapImpl.class
+org\senolab\webapp\sparkjavademo\App.class
+org\senolab\webapp\sparkjavademo\User.class
+org\senolab\webapp\sparkjavademo\UserException.class
