@@ -8,3 +8,7 @@
 .netbeans
 nbproject
 .idea
+
+**/target/*
+*.iml
+/target/*
